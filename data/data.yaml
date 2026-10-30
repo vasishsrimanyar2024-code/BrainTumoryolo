@@ -1,0 +1,5 @@
+train: train/annotated_images.txt
+val: val/annotated_images.txt
+
+nc: 4
+names: ['Glioma', 'Meningioma', 'No Tumor', 'Pituitary']

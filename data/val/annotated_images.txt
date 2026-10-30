@@ -1,0 +1,276 @@
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (31).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (513).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(226).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1212.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (505).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(89).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0471.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(58).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1159.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1139.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (45).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (511).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (498).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (475).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1141.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (486).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0327.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image (32).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1430.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1436.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1250.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0818.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (75).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (317).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (15).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (81).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (59).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (9).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (482).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (65).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0999.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(3).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1053.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (35).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(14).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0495.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (141).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1200.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (132).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (506).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(162).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m3 (4).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (287).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (198).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (350).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1318.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (165).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1416.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0513.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(65).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1222.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (131).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0935.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(187).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1198.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (550).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0508.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (37).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (427).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (186).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1071.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (322).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1226.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1264.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0984.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (22).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m3 (35).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1117.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m3 (150).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (21).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (362).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0245.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (54).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1235.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1202.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (221).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(56).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0845.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1269.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1283.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (33).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (493).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image (7).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(178).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1162.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (140).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0475.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0920.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (52).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1116.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (273).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0644.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0238.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0399.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1301.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0551.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0421.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(26).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0314.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (295).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1289.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (299).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (324).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0520.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (385).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1151.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0372.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (229).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0840.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0459.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(209).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (95).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0792.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1276.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0507.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1134.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (185).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0509.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(17).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1121.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1149.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(147).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1095.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (487).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0897.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0474.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\p (736).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(248).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1282.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1295.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (307).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1295.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1303.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0369.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0202.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0884.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (409).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1256.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1251.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0444.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1446.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1267.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (434).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (24).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m2 (54).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(80).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (115).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1259.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0371.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (397).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(96).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1097.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(31).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1128.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0907.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0488.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1191.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0640.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (227).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (19).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (239).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1025.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0400.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (520).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (264).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(254).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image (6).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (45).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0532.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m3 (58).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(5).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0307.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (59).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (47).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1165.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (29).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0518.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0675.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0972.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (94).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (78).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1148.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(178).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (72).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (558).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0812.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (359).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(46).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(32).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1391.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0833.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1379.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0873.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1231.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0378.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\p (767).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1171.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (310).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (103).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1130.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0343.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (372).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (293).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1428.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0539.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(68).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1223.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0778.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1120.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0967.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (489).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (119).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image (9).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (57).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1235.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0933.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1138.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_0902.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1219.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0865.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (66).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1060.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(222).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (342).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1110.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1314.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1448.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (305).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(269).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0549.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1442.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(65).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1112.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (526).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (538).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\p (775).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(70).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1301.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1372.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (568).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (135).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (536).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (27).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (254).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0401.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\p (723).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0492.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_1156.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1063.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (495).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0691.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (136).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1308.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0969.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1240.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0483.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1187.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1091.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0375.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0933.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image (4).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m (100).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m1(196).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1331.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (10).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\image(214).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (277).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-pi_1119.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0505.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1096.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0402.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\gg (257).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\m3 (160).jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-no_0434.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-me_1091.jpg
+C:\Users\vasis\Downloads\BrainTumorYOLO-App-main\data\val\images\Tr-gl_0541.jpg
