@@ -1,10 +1,10 @@
-streamlit
+-streamlit
 ultralytics
 timm
 torch
 torchvision
 tensorflow
 pillow
-opencv-python
+opencv-python-headless
 scikit-learn
 matplotlib
